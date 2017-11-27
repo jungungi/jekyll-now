@@ -17,10 +17,15 @@ title: Hello World
 ##### 5
 
 *single asterisks*
+
 _single underscores_
+
 **double asterisks**
+
 __double underscores__
+
 ++underline++
-~~cancelline~~``
+
+~~cancelline~~
 
 
