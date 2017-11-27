@@ -3,7 +3,11 @@ layout: post
 title: Hello World
 ---
 
-[link markdown](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+[markdown](https://gist.github.com/ihoneymon/652be052a0727ad59601)
+
+<https://gist.github.com/ihoneymon/652be052a0727ad59601>
+
+<jungungi@gmail.com>
 
 
 # 1
