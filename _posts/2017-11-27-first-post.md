@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Hello World
+date:   2017-05-06 13:45:35 +0900
+categories: jekyll update
 ---
 
 [markdown](https://gist.github.com/ihoneymon/652be052a0727ad59601)
