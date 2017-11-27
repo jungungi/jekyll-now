@@ -16,9 +16,9 @@ title: Hello World
 #### 4
 ##### 5
 
-* single *
-** double **
-** 소제목 강조(bold) **
+*single*
+**double**
+**소제목 강조(bold) **
 
 ```java```
 
