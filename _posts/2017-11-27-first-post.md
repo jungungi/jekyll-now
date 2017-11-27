@@ -16,12 +16,11 @@ title: Hello World
 #### 4
 ##### 5
 
-*single*
-
-**double**
-
+*single asterisks*
+_single underscores_
+**double asterisks**
+__double underscores__
 ++underline++
-
-```java```
+~~cancelline~~``
 
 
